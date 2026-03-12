@@ -25,7 +25,23 @@
 
 - Add your own details to the contributor list
 - Make a Pull Request
-- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)....
+- [Steps to add yourself to the contributors list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)....
+
+### Contributor card template
+
+Copy this HTML snippet into the contributors table and replace the placeholder values with your own details:
+
+```html
+<td align="center">
+    <a href="https://github.com/your-github-username">
+        <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="100px;" alt="Your Name" />
+        <br />
+        <sub>
+            <b>Your Name</b>
+        </sub>
+    </a>
+</td>
+```
 
 <p align="center">
     <a href="https://www.twitter.com/alisolankii">
